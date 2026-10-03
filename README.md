@@ -14,7 +14,7 @@ This work was inspired by
 [Vibe Password Generation: Predictable by Design](https://www.irregular.com/publications/vibe-password-generation)
 by Irregular.
 
-## Files
+## Dataset
 
 | File | Rows | Models | Prompt | Temperature |
 |---|---:|---:|---|---|
@@ -46,6 +46,4 @@ All passwords are deduplicated 8–64 printable ASCII characters with no whitesp
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The passwords are
-output from third-party models, so the terms of each model provider may also
-apply to your use.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Data set can be shared and adapted for any purpose if attribution is given. Also, passwords are output from third-party models, so the terms of each model provider may apply to your use.
